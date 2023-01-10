@@ -194,8 +194,8 @@ a {
         margin-right: 80px;
     }
 
-    h2 {
-        font-size: 15px;
+    h2.head {
+        font-size: 19px;
     }
 }
 
